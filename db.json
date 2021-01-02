@@ -1,0 +1,18 @@
+{ 
+   "GetVehicleData": { 
+      "Vin": "C4PDDBG8DT638512",
+      "Device": { 
+         "Version": "TestFW1.1.1",
+         "VBMG_Version": "TestVBMG2.0.0",
+         "ID": "T123456"
+      },
+      "VehicleDataRequest": [ 
+         { 
+            "Tag": "ODO"
+         },
+         { 
+            "Tag": "TIREPRESS_LF"
+         }
+      ]
+   }
+}
